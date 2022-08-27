@@ -1,38 +1,40 @@
 ---
-title: 'An example conference paper'
+title: 'Evaluating validity and bias for hand-calculated and automated written expression curriculumbased
+measurement scores'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Sterett H. Mercer
+  - Milena A. Keller-Margulis
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022'
+doi: '10.1080/0969594X.2022.2043240'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Assessment in Education Principles, Policy & Practice,*
+publication_short: In *AEPPP*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Written expression curriculum-based measurement (WE-CBM) is a formative assessment approach for screening and progress monitoring. To extend evaluation of WE-CBM, we compared hand calculated and automated scoring approaches in relation to the number of screening samples needed per student for valid scores, the long-term predictive validity and diagnostic accuracy of scores, and predictive and diagnostic bias for underrepresented student groups. Second- to fifth-grade students (n = 609) completed five WE-CBM tasks during one academic year and a standardised writing test in fourth and seventh grade. Averaging WE-CBM scores across multiple samples improved validity. Complex hand-calculated metrics and automated tools outperformed simpler metrics for the long-term prediction of writing performance. No evidence of bias was observed between African American and Hispanic students. The study will illustrate the absence of test bias as necessary condition for fair and equitable screening procedures and the importance of future research to include comparisons with majority groups.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -44,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.tandfonline.com/doi/pdf/10.1080/0969594X.2022.2043240?casa_token=U4EbExogT0wAAAAA:qm2M634pnU4ASIxuxn4ASlPf8GSsYwQrHkZ8ipDbiEdTm9ajQk-04A6hicmu3WN8KUJ4RIQd1sad'
 url_code: ''
 url_dataset: ''
 url_poster: ''
