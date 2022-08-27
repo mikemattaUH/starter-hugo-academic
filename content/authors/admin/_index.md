@@ -20,7 +20,7 @@ bio: My research focuses on developing and validating computer-based methods for
 interests:
   - Educational Measurement
   - Computer-based Assessment
-  - Writing
+  - Automated Scoring of Writing
 
 # Education to show in About widget
 education:
