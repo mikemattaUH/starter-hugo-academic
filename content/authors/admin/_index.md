@@ -64,6 +64,6 @@ email: 'mmatta@uh.edu'
 highlight_name: true
 ---
 
-Michael Matta is a Research Scientist in educational measurement in the PASS Lab. His research interests include the development and validation of automated methods of academic skills and behaviors of school-aged students. He also examines the negative consequences of test bias in traditional and automated assessments of academic skills on educational decisions against students from historically marginalized groups. He is Project Coordinator for the IES grant aimed at developing writeAlizer, a free and open-source computer program for the automated scoring of student writing performance.
+Michael Matta is a research scientist in educational measurement in the PASS Lab. His research interests include the development and validation of automated methods of academic skills and behaviors of school-aged students. He also examines the negative consequences of test bias in traditional and automated assessments of academic skills on educational decisions against students from historically marginalized groups. He is Project Coordinator for the IES grant aimed at developing writeAlizer, a free and open-source computer program for the automated scoring of student writing performance.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
