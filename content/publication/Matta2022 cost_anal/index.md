@@ -35,7 +35,7 @@ abstract: Although researchers have investigated technical adequacy and usabilit
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Written expression; Curriculum-based measurement; Automated text evaluation; Universal screening; Cost analysis; Cost effectiveness]
+tags: ["Written expression"]
 
 # Display this page in the Featured widget?
 featured: true
