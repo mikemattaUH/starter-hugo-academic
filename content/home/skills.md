@@ -17,13 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: r-project
-    icon_pack: fab
-    name: R Studio
+    icon: user-graduate
+    icon_pack: fas
+    name: Mentoring
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: Psychometrics  
+    name: Psychometrics
+  - description: 
+    icon: r-project
+    icon_pack: fab
+    name: R Studio  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
