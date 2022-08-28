@@ -103,7 +103,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-    ai = true
 
 # Security
 
