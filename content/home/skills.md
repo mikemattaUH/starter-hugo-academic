@@ -19,11 +19,11 @@ feature:
   - description: 
     icon: r-project
     icon_pack: fab
-    name: R
+    name: R Studio
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: Statistics  
+    name: Psychometrics  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
