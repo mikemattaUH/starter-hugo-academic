@@ -46,8 +46,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mikemattaUH
-  - icon: google-scholar # Alternatively, use `graduation-cap` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar.svg # Alternatively, use `graduation-cap` icon from `ai` icon pack
+    icon_pack: assets/media/icons
     link: https://scholar.google.com/citations?user=Ha0jSxoAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
