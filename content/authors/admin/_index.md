@@ -11,7 +11,7 @@ role: Research Scientist in Educational Measurement
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Houston
-    url: https://www.researchgate.net/profile/Michael-Matta
+    url: https://www.coe.uh.edu/dir/coedirectory/faculty_template.cfm?id=884&CFID=1116329&CFTOKEN=6f32465df9fe5ab8-DEC91909-94A9-F0A1-9ADB4C07AB5894E3
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on developing and validating computer-based methods for the assessment of academic skills and behaviors of school-aged students.
@@ -43,6 +43,9 @@ social:
   - icon: google
     icon_pack: fab
     link: https://scholar.google.com/citations?user=Ha0jSxoAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Michael-Matta
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mikemattaUH
