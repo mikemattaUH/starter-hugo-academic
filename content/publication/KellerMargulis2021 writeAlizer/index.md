@@ -1,25 +1,24 @@
 ---
-title: 'Evaluating validity and bias for hand-calculated and automated written expression curriculum-based
-measurement scores'
+title: 'Validity of automated text evaluation tools for written-expression curriculum-based measurement: a comparison study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Sterett H. Mercer
   - Milena A. Keller-Margulis
+  - Sterett H. Mercer
+  - admin
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022'
-doi: '10.1080/0969594X.2022.2043240'
+date: '2021'
+doi: '10.1007/s11145-021-10153-6'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-02-01T00:00:00Z'
+publishDate: '2021-04-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,16 +27,15 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Assessment in Education Principles, Policy & Practice*
-publication_short: In *AIE*
+publication: In *Reading and Writing*
+publication_short: In *R&W*
 
-abstract: Written expression curriculum-based measurement (WE-CBM) is a formative assessment approach for screening and progress monitoring. To extend evaluation of WE-CBM, we compared hand calculated and automated scoring approaches in relation to the number of screening samples needed per student for valid scores, the long-term predictive validity and diagnostic accuracy of scores, and predictive and diagnostic bias for underrepresented student groups. Second- to fifth-grade students (n = 609) completed five WE-CBM tasks during one academic year and a standardised writing test in fourth and seventh grade. Averaging WE-CBM scores across multiple samples improved validity. Complex hand-calculated metrics and automated tools outperformed simpler metrics for the long-term prediction of writing performance. No evidence of bias was observed between African American and Hispanic students. The study will illustrate the absence of test bias as necessary condition for fair and equitable screening procedures and the importance of future research to include comparisons with majority groups.
+abstract: Existing approaches to measuring writing performance are insufficient in terms of both technical adequacy as well as feasibility for use as a screening measure. This study examined the validity and diagnostic accuracy of several approaches to automated text evaluation as well as written expression curriculum-based measurement (WE-CBM) to determine whether an automated approach improves technical adequacy. A sample of 140 fourth grade students generated writing samples that were then scored using traditional and automated approaches and examined in relation to the statewide measure of writing performance. Results indicated that the validity and diagnostic accuracy for the best performing WE-CBM metric, correct minus incorrect word sequences, and the automated approaches to scoring were comparable, with automated approaches offering potentially improved feasibility for use in screening. Averaging scores across three time points was necessary, however, in order to achieve improved validity and adequate levels of diagnostic accuracy across the scoring approaches. Limitations, implications, and directions for future research regarding the use of automated scoring approaches for screening are discussed.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Written expression", "Curriculum-based
-measurement", "Automated text evaluation", "Predictive validity", "Predictive bias"]
+tags: ["Written expression", "Curriculum-based measurement", "Automated text evaluation", "Validity"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.tandfonline.com/doi/pdf/10.1080/0969594X.2022.2043240?casa_token=U4EbExogT0wAAAAA:qm2M634pnU4ASIxuxn4ASlPf8GSsYwQrHkZ8ipDbiEdTm9ajQk-04A6hicmu3WN8KUJ4RIQd1sad'
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/s11145-021-10153-6.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

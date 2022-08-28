@@ -1,14 +1,13 @@
 ---
-title: 'Evaluating validity and bias for hand-calculated and automated written expression curriculum-based
-measurement scores'
+title: 'Cost analysis and cost-effectiveness of hand-scored and automated approaches to writing screening'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Sterett H. Mercer
   - Milena A. Keller-Margulis
+  - Sterett H. Mercer
 
 # Author notes (optional)
 #author_notes:
@@ -16,10 +15,10 @@ authors:
 #  - 'Equal contribution'
 
 date: '2022'
-doi: '10.1080/0969594X.2022.2043240'
+doi: '10.1016/j.jsp.2022.03.003'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-02-01T00:00:00Z'
+publishDate: '2022-03-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,16 +27,15 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Assessment in Education Principles, Policy & Practice*
-publication_short: In *AIE*
+publication: In *Journal of School Psychology*
+publication_short: In *JSP*
 
-abstract: Written expression curriculum-based measurement (WE-CBM) is a formative assessment approach for screening and progress monitoring. To extend evaluation of WE-CBM, we compared hand calculated and automated scoring approaches in relation to the number of screening samples needed per student for valid scores, the long-term predictive validity and diagnostic accuracy of scores, and predictive and diagnostic bias for underrepresented student groups. Second- to fifth-grade students (n = 609) completed five WE-CBM tasks during one academic year and a standardised writing test in fourth and seventh grade. Averaging WE-CBM scores across multiple samples improved validity. Complex hand-calculated metrics and automated tools outperformed simpler metrics for the long-term prediction of writing performance. No evidence of bias was observed between African American and Hispanic students. The study will illustrate the absence of test bias as necessary condition for fair and equitable screening procedures and the importance of future research to include comparisons with majority groups.
+abstract: Although researchers have investigated technical adequacy and usability of written-expression curriculum-based measures (WE-CBM), the economic implications of different scoring approaches have largely been ignored. The absence of such knowledge can undermine the effective allocation of resources and lead to the adoption of suboptimal measures for the identification of students at risk for poor writing outcomes. Therefore, we used the Ingredients method to compare implementation costs and cost-effectiveness of hand-calculated and automated scoring approaches. Data analyses were conducted on secondary data from a study that evaluated predictive validity and diagnostic accuracy of quantitative approaches for scoring WE-CBM samples. Findings showed that automated approaches offered more economic solutions than hand-calculated methods; for automated scores, the effects were stronger when the free writeAlizer R package was employed, whereas, for hand-calculated scores, simpler WE-CBM metrics were less costly than more complex metrics. Sensitivity analyses confirmed the relative advantage of automated scores when the number of classrooms, students, and assessment occasions per school year increased; again, writeAlizer was less sensitive to the changes in the ingredients than the other approaches. Finally, the visualization of the cost-effectiveness ratio illustrated that writeAlizer offered the optimal balance between implementation costs and diagnostic accuracy, followed by complex hand-calculated metrics and a proprietary automated program. Implications for the use of hand-calculated and automated scores for the universal screening of written expression with elementary students are discussed.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Written expression", "Curriculum-based
-measurement", "Automated text evaluation", "Predictive validity", "Predictive bias"]
+tags: ["Written expression", "Curriculum-based measurement", "Automated text evaluation", "Universal screening", "Cost analysis", "Cost effectiveness"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.tandfonline.com/doi/pdf/10.1080/0969594X.2022.2043240?casa_token=U4EbExogT0wAAAAA:qm2M634pnU4ASIxuxn4ASlPf8GSsYwQrHkZ8ipDbiEdTm9ajQk-04A6hicmu3WN8KUJ4RIQd1sad'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0022440522000231?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''

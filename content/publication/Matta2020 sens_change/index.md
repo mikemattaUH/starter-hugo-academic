@@ -1,25 +1,25 @@
 ---
-title: 'Evaluating validity and bias for hand-calculated and automated written expression curriculum-based
-measurement scores'
+title: 'Five Direct Behavior Rating Multi-Item Scales: Sensitivity to the Effects of Classroom Interventions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Sterett H. Mercer
-  - Milena A. Keller-Margulis
+  - Robert J. Volpe
+  - Amy M. Briesch
+  - Julie Sarno Owens
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022'
-doi: '10.1080/0969594X.2022.2043240'
+date: '2020'
+doi: '10.1016/j.jsp.2020.05.002'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-02-01T00:00:00Z'
+publishDate: '2020-06-23T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,16 +28,15 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Assessment in Education Principles, Policy & Practice*
-publication_short: In *AIE*
+publication: In *Journal of School Psychology*
+publication_short: In *JSP*
 
-abstract: Written expression curriculum-based measurement (WE-CBM) is a formative assessment approach for screening and progress monitoring. To extend evaluation of WE-CBM, we compared hand calculated and automated scoring approaches in relation to the number of screening samples needed per student for valid scores, the long-term predictive validity and diagnostic accuracy of scores, and predictive and diagnostic bias for underrepresented student groups. Second- to fifth-grade students (n = 609) completed five WE-CBM tasks during one academic year and a standardised writing test in fourth and seventh grade. Averaging WE-CBM scores across multiple samples improved validity. Complex hand-calculated metrics and automated tools outperformed simpler metrics for the long-term prediction of writing performance. No evidence of bias was observed between African American and Hispanic students. The study will illustrate the absence of test bias as necessary condition for fair and equitable screening procedures and the importance of future research to include comparisons with majority groups.
+abstract: Direct Behavior Rating (DBR) is a tool designed for the assessment of behavioral changes over time. Unlike methods for summative evaluations, the development of progress monitoring tools requires evaluation of sensitivity to change. The present study aimed to evaluate this psychometric feature of five newly developed DBR Multi-Item Scales (DBR-MIS). Teachers identified students with behaviors interfering with their learning or the learning of others and implemented a Daily Report Card (DRC) intervention in the classroom settings for two months. The analyses were performed on 31 AB single case studies. Change metrics were calculated at an individual level by using Tau-UA vs. B + trend B and Hedges' g and at a scale-level by using Mixed Effect Meta-Analysis, Hierarchical Linear Models (HLMs), and Between-Case Standardized Mean Difference (BC-SMD). HLMs were estimated considering both fixed and random effects of intervention and linear trend within the intervention phase. The results supported sensitivity to change for three DBR-MIS (i.e., Academic Engagement, Organizational Skills, and Disruptive Behavior), and the relative magnitudes were consistent across the metrics. Sensitivity to change of DBR-MIS Interpersonal Skills received moderate support. Conversely, empirical evidence was not provided for sensitivity to change of DBR-MIS Oppositional Behavior. Particular emphasis was placed on the intervention trend in that responses to behavioral interventions might occur gradually or require consistency over time in order to be observed by raters. Implications for the use of the new DBR-MIS in the context of progress monitoring of social-emotional behaviors are discussed.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Written expression", "Curriculum-based
-measurement", "Automated text evaluation", "Predictive validity", "Predictive bias"]
+tags: ["Progress monitoring", "Direct Behavior Rating", "Sensitivity to change", "Single case study design", "Tau-U", "BC-SMD"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.tandfonline.com/doi/pdf/10.1080/0969594X.2022.2043240?casa_token=U4EbExogT0wAAAAA:qm2M634pnU4ASIxuxn4ASlPf8GSsYwQrHkZ8ipDbiEdTm9ajQk-04A6hicmu3WN8KUJ4RIQd1sad'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S002244052030025X?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''
