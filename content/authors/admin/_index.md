@@ -51,7 +51,7 @@ social:
     link: https://twitter.com/mikemattaUH
   - icon: envelope
     icon_pack: fas
-    link: 'mmatta@uh.edu'
+    link: '/#contact'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
