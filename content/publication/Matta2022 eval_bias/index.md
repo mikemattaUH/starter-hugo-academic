@@ -36,8 +36,8 @@ abstract: Written expression curriculum-based measurement (WE-CBM) is a formativ
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Written expression; curriculum-based
-measurement; automated text evaluation; predictive validity; predictive bias]
+tags: ["Written expression", "curriculum-based
+measurement", "automated text evaluation", "predictive validity", "predictive bias"]
 
 # Display this page in the Featured widget?
 featured: true
