@@ -22,8 +22,8 @@ main:
   - name: Publications
     url: 'https://mikematta.netlify.app/publication/'
     weight: 30
-  - name: Grants
-    url: 'https://mikematta.netlify.app/grants/'
+  - name: Awards
+    url: 'https://mikematta.netlify.app/awards/'
     weight: 40
   - name: Contact
     url: '#contact'
