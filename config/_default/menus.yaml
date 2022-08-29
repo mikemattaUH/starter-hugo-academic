@@ -23,7 +23,7 @@ main:
     url: 'https://mikematta.netlify.app/publication/'
     weight: 30
   - name: Accomplishments
-    url: 'https://mikematta.netlify.app/awards/'
+    url: 'https://mikematta.netlify.app/accomplishments/'
     weight: 40
   - name: Contact
     url: '#contact'
