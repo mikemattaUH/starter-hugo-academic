@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -13,7 +13,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplishments'
+title: 'Grants & Awards'
 subtitle:
 
 # Date format
@@ -26,30 +26,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://twitter.com/quantitudepod/status/1547551926455246862
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-07-14'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Quantitude
+    organization_url: https://quantitudepod.org/
+    title: 'Meme Captioning Contest'
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
     date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    description: Research Grant
+    organization: Woodcock Institute
+    organization_url: https://twu.edu/woodcock-institute/
+    title: Assessing the Simple View of Writing in School-Age Students with ADHD
+    url: https://twu.edu/woodcock-institute/research-grant-application/funded-research-grants/2021-22-funded-research-grants/
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2020-07-01'
+    description: Early Career Research Award
+    organization: Society for the Study of School Psychology (SSSP)
+    organization_url: https://www.sssp-research.org/
+    title: Differential Racial/Ethnic Predictive Validity of Written-Expression Curriculum-Based Measurement (WE-CBM) and Automated WE-CBM (aWE-CBM)
+    url: https://www.sssp-research.org/early-career-research/
+#  - certificate_url: https://twitter.com/quantitudepod/status/1547551926455246862
+#    date_end: '2022-07-14'
+#    date_start: ''
+#    description: ''
+#    organization: Quantitude
+#    organization_url: https://quantitudepod.org/
+#    title: 'Object-Oriented Programming in R'
+#    url: ''
 
 design:
   columns: '2'
