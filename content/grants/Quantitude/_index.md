@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2022-07-14'
-doi: 'https://twitter.com/quantitudepod/status/1547551926455246862'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-04-01T00:00:00Z'
@@ -35,6 +35,8 @@ featured: true
 links:
 - name: Read the meme
   url: https://twitter.com/quantitudepod/status/1547552027005288448
+- name: See certificate
+  url: https://twitter.com/quantitudepod/status/1547551926455246862
 
 url_pdf: ''
 url_code: ''
