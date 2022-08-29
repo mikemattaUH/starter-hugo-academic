@@ -21,6 +21,8 @@ interests:
   - Educational Measurement
   - Computer-based Assessment
   - Automated Scoring of Writing
+  - Test Bias against Minoritized Students
+  - Unintended Consequences of Test Use
 
 # Education to show in About widget
 education:
