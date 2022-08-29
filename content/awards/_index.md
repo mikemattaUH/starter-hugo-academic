@@ -1,5 +1,5 @@
 ---
-title: Grants
+title: Awards
 cms_exclude: true
 
 # View.
